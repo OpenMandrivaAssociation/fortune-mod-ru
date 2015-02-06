@@ -1,7 +1,7 @@
 Summary:	Russian fortune messages
 Name:		fortune-mod-ru
 Version:	1.52
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Toys
 Url:		http://jack.kiev.ua/fortune-mod-ru/
