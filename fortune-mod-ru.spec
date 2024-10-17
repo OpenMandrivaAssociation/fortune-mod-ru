@@ -4,7 +4,7 @@ Version:	1.52
 Release:	2
 License:	GPLv2+
 Group:		Toys
-Url:		http://jack.kiev.ua/fortune-mod-ru/
+Url:		https://jack.kiev.ua/fortune-mod-ru/
 Source0:	http://jack.kiev.ua/filez/%{name}-%{version}.tar.bz2
 Requires:	fortune-mod
 BuildArch:	noarch
